@@ -18,6 +18,10 @@ This repository is the official PyTorch implementation of "CAMP-Net: Consistency
 - [2023/03/25] 🥈 We secured 2nd place in 4x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
 - [2023/03/25] 🥉 We secured 3rd place in 8x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
 
+<p align="center">
+<img width="448" src="assets/fastmri-leaderboard-4x-top5.png"> <img width="448" src="assets/fastmri-leaderboard-8x-top5.png">
+</p>
+
 ## Citation
 ```bibtex
 @article{zhang2023camp,
