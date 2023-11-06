@@ -36,5 +36,8 @@ This repository is the official PyTorch implementation of "CAMP-Net: Consistency
 This project is released under the Apache 2.0 license. The codes are based on [fastMRI](https://github.com/facebookresearch/fastMRI), [MC-MRI-Rec](https://github.com/rmsouza01/MC-MRI-Rec), and [SKM-TEA](https://github.com/StanfordMIMI/skm-tea). Please also follow their licenses. Thanks for their awesome works.
 
 ## Contents
+<p align="center">
+<img width="200" src="assets/overall-architecture-camp-net.png">
+</p>
 Coming soon ...
 
