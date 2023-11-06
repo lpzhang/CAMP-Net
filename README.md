@@ -37,7 +37,8 @@ This project is released under the Apache 2.0 license. The codes are based on [f
 
 ## Contents
 <p align="center">
-<img width="200" src="assets/overall-architecture-camp-net.png">
+<img width="1024" src="assets/overall-architecture-camp-net.png">
 </p>
+
 Coming soon ...
 
