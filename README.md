@@ -16,7 +16,7 @@ This repository is the official PyTorch implementation of "CAMP-Net: Consistency
 
 ## Updates
 - [2023/03/25] 🥈 We secured 2nd place in 4x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
-- [2023/03/25] 🥉 We secured 3rd place in 8x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
+- [2023/03/25] 🥈 We secured 2nd place in 8x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
 
 <p align="center">
 <img width="768" src="assets/fastmri-leaderboard-4x-top5.png">
@@ -25,11 +25,12 @@ This repository is the official PyTorch implementation of "CAMP-Net: Consistency
 
 ## Citation
 ```bibtex
-@article{zhang2023camp,
-  title={CAMP-Net: Consistency-Aware Multi-Prior Network for Accelerated MRI Reconstruction},
+@article{zhang2024camp,
+  title={Camp-net: consistency-aware multi-prior network for accelerated MRI reconstruction},
   author={Zhang, Liping and Li, Xiaobo and Chen, Weitian},
-  journal={arXiv preprint arXiv:2306.11238},
-  year={2023}
+  journal={IEEE Journal of Biomedical and Health Informatics},
+  year={2024},
+  publisher={IEEE}
 }
 ```
 
