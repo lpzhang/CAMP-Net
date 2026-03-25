@@ -15,8 +15,9 @@ This repository is the official PyTorch implementation of "CAMP-Net: Consistency
 </br>
 
 ## Updates
-- [2023/03/25] 🥈 We secured 2nd place in 4x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
-- [2023/03/25] 🥈 We secured 2nd place in 8x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
+- [2023/03/25] 🎉 We secured 🥈 place in 4x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
+- [2023/03/25] 🎉 We secured 🥈 place in 8x accelerated Multi-Coil Knee reconstruction in [fastMRI Leaderboard](https://web.archive.org/web/20230324102125mp_/https://fastmri.org/leaderboards)!
+- [2026/01/27] 📢 Our U.S. patent has been issued: **ZHANG, Liping; CHEN, Weitian. _System and method for consistency-aware learnable multi-prior reconstruction for magnetic resonance imaging._ U.S. Patent No. 12,535,547, issued on Jan. 27 2026**
 
 <p align="center">
 <img width="768" src="assets/fastmri-leaderboard-4x-top5.png">
